@@ -1,0 +1,5 @@
+#Megadjuk mely kiterjesztésű file-oakt ignorálja
+*.txt
+*.doc
+*.docx
+*.pdf
